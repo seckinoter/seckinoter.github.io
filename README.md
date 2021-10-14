@@ -1,3 +1,2 @@
 # Seckin Oter Resume Website
-# --------------------------
-# seckinoter.github.io
+  https://seckinoter.github.io
